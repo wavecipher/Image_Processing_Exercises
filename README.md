@@ -1,4 +1,4 @@
-# image_processing
+# Various image processing exercises
 Various simple image processing exercises done with OpenCV 
 
 :)
